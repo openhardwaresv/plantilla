@@ -63,8 +63,10 @@ Costo/Lista de Materiales
 =========================
 
 Si la lista de materiales de este proyecto es corta puedes incluírla aquí, en
-caso contrario puedes crear un archivo llamado "bom.csv" donde puedes detallar
-la lista de materiales y costos y hacer referencia al mismo.
+caso contrario puedes crear un archivo llamado "bom.csv" o un archivo de hoja de
+cálculo donde puedes detallar la lista de materiales y costos. Procura utilizar
+formatos abiertos en la medida de lo posible, por ejemplo eligiendo ODS sobre
+Excel.
 
 Pre-requisitos/Requerimientos
 =============================

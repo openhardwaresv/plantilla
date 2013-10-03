@@ -1,0 +1,24 @@
+Construyendo mi proyecto
+========================
+
+Coloca en este archivo instrucciones detalladas sobre la construcción del hardware
+que has desarrollado. Es recomendable que coloques las instrucciones detalladas
+por pasos como se ejemplifica a continuación
+
+Paso 1 - Desempaquetando
+========================
+
+Saca los componentes de las bolsas y colócalos en la mesa, cuéntalos en base
+al archivo bom.txt  y revisa que todo se encuentre en orden.
+
+Paso 2 - Conectando
+===================
+
+Conecta a la breadboard una resistencia y un LED de 330Ohm en serie.
+Luego conecta la línea 13 del Arduino UNO a la resistencia.
+
+Paso 3 - Construyendo el código
+===============================
+
+Conecta tu arduino a la PC y abre el Sketch en la carpeta src/Test/Test.ino
+y súbelo a tu Arduino.

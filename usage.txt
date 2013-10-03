@@ -1,0 +1,6 @@
+Utilización
+===========
+
+Coloca en este archivo los detalles para la utilización de tu proyecto. Por ejemplo:
+
+> ¡¡Conéctalo a la alimentación y mira la luz parpadear!!
