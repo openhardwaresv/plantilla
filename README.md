@@ -2,17 +2,18 @@ Plantilla para proyectos Open Hardware
 =======================================================
 
 Este repositorio tiene el objetivo de servir de plantilla
-para facilitar la documentación de proyectos OpenHardware.
+para facilitar la documentación de proyectos Open-Hardware.
 
 Las carpetas propuestas en esta estructura están basados
 en las recomendaciones de buenas prácticas de la OSHWA
-traducidas al español disponibles en http://www.openhardware.sv/acerca-de/buenas-practicas-para-el-hardware-de-fuente-abierta/
+traducidas al español que se encuentran disponibles en
+http://www.openhardware.sv/acerca-de/buenas-practicas-para-el-hardware-de-fuente-abierta/
 
 Puedes modificar este documento como mejor se ajuste a tus
-necesidades los párrafos están en formato plantilla para
-facilitar la edición.
+necesidades sobreescribiendo los textos en cada párrafo y
+agregando la información y archivos que consideres conveniente.
 
-Para comenzar, borra esta sección incluyendo esta línea.
+Inicia borrando esta sección incluyendo esta línea.
 
 
 Nombre de tu proyecto
@@ -84,11 +85,12 @@ Ejemplo:
 
 Requerimientos de software:
 
-* IDE Eclipse.
+* IDE Arduino.
 
 Herramientas requeridas:
 
-* CNC de dos ejes.
+* Pinza cortadora de cable.
+
 
 Construcción y uso
 ==================
@@ -99,7 +101,7 @@ procedimiento a seguir.
 
 De igual manera si el procedimiento de utilización del software asociado a tu
 proyecto es sencillo puedes explicarlo aquí. En caso de que las instrucciones
-sean muy complicadas, puedes crear un archivo "usage.txt" y hacer referencia
+sean muy extensas, puedes crear un archivo "usage.txt" y hacer referencia
 al mismo en esta sección.
 
 Carpetas
@@ -112,7 +114,8 @@ se adopte mejor a tus necesidades.
 Recuerda que dentro de cada carpeta es muy recomendable que incluyas un archivo
 llamado "readme.txt" donde detalles los contenidos de la misma.
 
-En esta plantilla se recomienda incluir por lo menos las siguientes carpetas:
+En la estruuctura de directorios se recomienda incluir por al menos las
+siguientes carpetas:
 
 * *doc*: Utiliza esta carpeta para ingresar toda la documentación que consideres
 necesaria para tu proyecto. De preferencia utiliza formatos libres como "ODF"
@@ -134,7 +137,7 @@ para manufactura, artes gráficos adicionales.
 * *extra*: Esta carpeta es libre, aquí puedes colocar otros archivos que se
 puedan requerir para hacer funcionar o construir tu proyecto. Un ejemplo de ello
 puede ser un driver controlador de un dispositivo específico o vínculos a software
-relevante o fotografías.
+relevante, fotografías o videos.
 
 Excepción de responsabilidades
 ==============================
