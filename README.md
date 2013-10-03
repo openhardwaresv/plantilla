@@ -12,9 +12,7 @@ Puedes modificar este documento como mejor se ajuste a tus
 necesidades los párrafos están en formato plantilla para
 facilitar la edición.
 
-Esta plantilla está protegida bajo licencia CC BY, puedes
-modificarla y redistribuirla haciendo referencia a la versión
-original mantenida por la comunidad openhardware.sv
+Para comenzar, borra esta sección incluyendo esta línea.
 
 
 Nombre de tu proyecto
@@ -151,3 +149,14 @@ económico a su persona o terceros derivados de la utilización del mismo. Este 
 no deberá ser utilizado bajo ninguna circustancia en sistemas de carácter crítico
 o sistemas de los cuales dependan vidas de personas de manera directa o indirecta.
 
+
+Licenciamiento
+==============
+
+Agrega aquí la licencia que utilizas en el código fuente de tu proyecto, adicionalmente
+agradeceríamos si colocas la nota de atribución de la plantilla al final.
+
+> La plantilla de este README.md ha sido desarrollada por la comunidad openhardware.sv
+con el objetivo de facilitar la documentación de proyectos. Esta plantilla está protegida
+bajo la licencia CC BY, puedes modificarla y redistribuirla manteniendo esta nota de
+atribución del autor.
