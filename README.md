@@ -10,7 +10,11 @@ traducidas al español disponibles en http://www.openhardware.sv/acerca-de/buena
 
 Puedes modificar este documento como mejor se ajuste a tus
 necesidades los párrafos están en formato plantilla para
-facilitar la edición
+facilitar la edición.
+
+Esta plantilla está protegida bajo licencia CC BY, puedes
+modificarla y redistribuirla haciendo referencia a la versión
+original mantenida por la comunidad openhardware.sv
 
 
 Nombre de tu proyecto
