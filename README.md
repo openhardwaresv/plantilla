@@ -108,7 +108,7 @@ se adopte mejor a tus necesidades.
 Recuerda que dentro de cada carpeta es muy recomendable que incluyas un archivo
 llamado "readme.txt" donde detalles los contenidos de la misma.
 
-En esta plantilla recomienda incluir por lo menos las siguientes carpetas:
+En esta plantilla se recomienda incluir por lo menos las siguientes carpetas:
 
 * *doc*: Utiliza esta carpeta para ingresar toda la documentación que consideres
 necesaria para tu proyecto. De preferencia utiliza formatos libres como "ODF"
@@ -130,7 +130,7 @@ para manufactura, artes gráficos adicionales.
 * *extra*: Esta carpeta es libre, aquí puedes colocar otros archivos que se
 puedan requerir para hacer funcionar o construir tu proyecto. Un ejemplo de ello
 puede ser un driver controlador de un dispositivo específico o vínculos a software
-relevante
+relevante o fotografías.
 
 Excepción de responsabilidades
 ==============================
